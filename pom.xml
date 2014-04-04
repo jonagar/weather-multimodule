@@ -25,9 +25,9 @@
 	</dependencyManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:jonagar/ufasu-new.git</connection>
-		<url>scm:git:git@github.com:jonagar/ufasu-new.git</url>
-		<developerConnection>scm:git:git@github.com:jonagar/ufasu-new.git</developerConnection>
+		<connection>scm:git:git@github.com:jonagar/weather-multimodule.git</connection>
+		<url>scm:git:git@github.com:jonagar/weather-multimodule.git</url>
+		<developerConnection>scm:git:git@github.com:jonagar/weather-multimodule.git</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
 
